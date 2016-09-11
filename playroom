@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <!-- The Play Room Description Sample Page
+        Author:  Paola Lowry
+		Date : 09/06/2016
+   -->
+    <meta charset="?UTF-8" />
+    <title> The Playroom</title>
+	<script src="modernizr-1.5.js"></script>
+	<link href="playroomstyles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<header>
+		<hgroup>
+			<h1>The Playroom</h1>
+			<h2>Where imagination never ends</h2>
+		</hgroup>
+	</header>
+	<section>
+		<article>
+			<h2>Our best moments in family happen right at home</h2>
+			<p>Our home play area has room and all the tools to create a magical
+			   world, where entraining every member of the family is 
+			   amusing and full filling. 
+			</p>
+		</article>
+		
+		<article>
+			<h2>Decoration is key</h2>
+			<p>As part of keeping the mood calm but alert, the colors in the
+			   playroom are fun but soft to the eye.
+			   <ul>
+				<li>The paint on the furtherest wall from the entrace
+  				    is painted in a soft yellow, impersonating a 
+					gentle sunny day.
+			<figure>
+				<a href="back_yellow_wall.jpg">
+					<img src="back_yellow_wall_sm.jpg" alt="photo" />
+					<figcaption>Best color in the color wheel</i></figcaption>
+				</a>
+			</figure>
+				</li>
+				<li>The side walls are cottonwhite and softens the brightness
+					of the "Sunny" yellow wall.
+				</li>
+				<li>On one of the side walls, yellow polka dots are stating 
+					that "fun happens here"
+				</li>
+				<figure>
+				<a href="polka_dots_wall.jpg">
+					<img src="polka_dots_wall_sm.jpg" alt="photo" />
+				</a>
+					<figcaption>Polka dots are so much fun!</i></figcaption>
+				</figure>
+				
+			   
+		</article>
+		
+	</section>
+	<aside>
+		<h2>Cleaning is a Breeze</h2>
+		<p>A well spaced areas make cleaning a very easy task, here is some tips 
+		   we always follow:
+		</p>
+		<blockquote>
+			<p>Every clean-up time after playing is a task learned by the little
+			   ones, the "lava" game is our best friend to make those little hands
+			   pick up their toys, before they get "engulfed" by the scorchng melting
+			   lava.
+			</p>
+			<p>the blockie furniture allows to vacum the fluffy carpet in no time
+			   we don't worry about cleaning behind furniture, all eventually will
+			   be moved in a rotating fashion to avoid fogoten "dust bunnies"
+			</p>
+		</blockquote>
+			  
+	</aside>
+	
+	<footer>
+		<p>This page was created by Paola Lowry
+		</p>
+	</footer>			
+</body>
+</html>
