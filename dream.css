@@ -1,0 +1,48 @@
+body {
+	background-color: #00eac8;
+}
+	
+h1 {
+	color: blue;
+	text-align: center;
+	font-size: 60px;
+}
+
+/* picture and tagline*/
+div{
+	text-align: center;
+	margin-right: 150px;
+	margin-left: 150px;
+	
+}
+
+strong {
+	font-size: 20px;
+	font-family: lucida handwriting;
+}
+
+em {
+	font-size: 20px;
+}
+
+/* Location, location, location */
+article {
+	margin-right: 150px;
+	margin-left:150px;
+}
+
+blockquote {
+	font-family: sans-serif;
+	margin-right: 200px;
+	margin-left: 150px;
+}
+
+section {
+	margin-right: 150px;
+	margin-left:150px;
+}
+
+/* created by */
+footer {
+	margin-left: 150px;
+}
